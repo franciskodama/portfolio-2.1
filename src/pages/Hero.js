@@ -35,7 +35,7 @@ const Hero = () => {
   };
 
   return (
-    <section className='section hero' id='hero'>
+    <section className='section hero bg-dark text-bright' id='hero'>
       <video
         autoPlay
         loop
@@ -53,9 +53,9 @@ const Hero = () => {
       >
         <source src={Video} type='video/mp4' />
       </video>
-      <div className='hero__filter'></div>
-      <div className='container' ref={sidesWrapperRef}>
-        <div className='cube' onMouseMove={onMoveHandler}>
+      <div className='absolute top-0 left-0 w-full h-screen bg-dark/50 z-2'></div>
+      <div className='relative flex items-center justify-center h-full w-[90%] mx-auto z-3' ref={sidesWrapperRef}>
+        <div className='relative font-main-heavy text-[1.7rem] leading-[1.5rem] w-[15em] h-[13em] z-10' onMouseMove={onMoveHandler}>
           <div className='cube__left' ref={sideLeftRef}>
             <h2>hey, I'm</h2>
             <h2>Francis</h2> <h2>Kodama</h2> <h2>Based in</h2> <h2>Ottawa, </h2>
@@ -76,7 +76,7 @@ const Hero = () => {
         </div>
       </div>
       <Link to='reason' spy={true} smooth={true} offset={-150} duration={2000}>
-        <img src={Scroll} className='hero__scroll' alt='icon to scroll' />
+        <img src={Scroll} className='absolute bottom-[3%] left-[49%] -translate-x-1/2 w-10 h-10 border-0 cursor-pointer z-3' alt='icon to scroll' />
       </Link>
     </section>
   );

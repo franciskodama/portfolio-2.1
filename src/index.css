@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark: var(--dark-color);
+  --color-bright: var(--bright-color);
+  --color-third: var(--third-color);
+  --color-transparent: var(--transparent);
+  
+  --font-main-thin: var(--main-font-thin);
+  --font-main-light: var(--main-font-light);
+  --font-main-regular: var(--main-font-regular);
+  --font-main-medium: var(--main-font-medium);
+  --font-main-semibold: var(--main-font-semibold);
+  --font-main-heavy: var(--main-font-heavy);
+  --font-second: var(--second-font);
+}
+
+:root {
+  --main-font-thin: "axiformathin", sans-serif;
+  --main-font-light: "axiformalight", sans-serif;
+  --main-font-regular: "axiformaregular", sans-serif;
+  --main-font-medium: "axiformamedium", sans-serif;
+  --main-font-semibold: "axiformasemibold", sans-serif;
+  --main-font-heavy: "axiformaheavy", sans-serif;
+  --second-font: "Hubballi", cursive;
+  --dark-color: #1c1c1c;
+  --bright-color: #ffffff;
+  --third-color: #ed1c24;
+  --transparent: hsla(0, 0%, 0%, 0);
+  --gradient: linear-gradient(to right top, #1c1c1c, #3a3939, #5a5959, #7c7b7a, #9f9f9d);
+}
+
+@layer base {
+  body {
+    @apply font-main-thin bg-dark text-white leading-relaxed;
+    font-size: 100%;
+  }
+
+  h1, h2, button {
+    @apply uppercase;
+  }
+
+  a {
+    @apply no-underline;
+  }
+}
+
+@layer components {
+  .section-title {
+    @apply font-main-regular text-[3rem] capitalize text-center mt-[3em] leading-[3.5rem];
+  }
+
+  .container {
+    @apply max-w-[85em] mx-auto;
+  }
+}
