@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/dev/portfolio-2.1/src/styles/Projects.css"],"sourcesContent":[".projects {\n  position: relative;\n  background-color: var(--dark-color);\n  padding-bottom: 15em;\n}\n\n.projects__title {\n  text-align: center;\n  margin-bottom: 1em;\n}\n\n.projects__wrapper {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  width: 100%;\n  align-items: center;\n}\n\n/* ====================================\n            MEDIA QUERY\n======================================= */\n@media only screen and (min-width: 48em) {\n  .projects {\n    padding-bottom: 10em;\n  }\n}\n\n@media only screen and (min-width: 62em) {\n  .projects {\n    width: 100%;\n    padding-bottom: 15em;\n  }\n  .projects .container {\n    width: 70%;\n  }\n}\n/*# sourceMappingURL=Projects.css.map */"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;AAKA;;;;;;;;AAWA;EACE;;;;;AAKF;EACE;;;;;EAIA"}}]
-}
