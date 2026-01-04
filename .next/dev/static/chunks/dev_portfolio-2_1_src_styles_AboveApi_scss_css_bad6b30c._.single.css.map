@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///turbopack:///[project]/dev/portfolio-2.1/src/styles/AboveApi.scss"],"sourcesContent":["  .above-api {\n    background-color: var(--dark-color);\n    height: 15em; \n    z-index: 10;\n    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 7.5vw), 0 100%);\n    margin-bottom: -7.5vw;\n  }\n  "],"names":[],"mappings":"AAAE"}}]
+}
