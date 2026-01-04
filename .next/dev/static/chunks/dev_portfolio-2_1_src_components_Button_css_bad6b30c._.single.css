@@ -1,0 +1,71 @@
+/* [project]/dev/portfolio-2.1/src/components/Button.css [app-client] (css) */
+.btn {
+  font-family: var(--main-font-medium);
+  cursor: pointer;
+  padding: .7em 2em;
+  font-size: 1rem;
+  display: inline-block;
+}
+
+.btn--dark {
+  color: var(--bright-color);
+  border: 1px solid var(--dark-color);
+  background-color: var(--dark-color);
+  z-index: 1;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+
+.btn--dark:hover {
+  -webkit-box-shadow: var(--dark-color) 0px 0px 0px 0px inset, var(--bright-color) -5px 5px 0px -1px, var(--dark-color) -5px 5px;
+  box-shadow: var(--dark-color) 0px 0px 0px 0px inset, var(--bright-color) -5px 5px 0px -1px, var(--dark-color) -5px 5px;
+  -webkit-transform: translate(5px, -5px);
+  transform: translate(5px, -5px);
+}
+
+.btn--dark-dark-bg {
+  color: var(--bright-color);
+  border: 1px solid var(--bright-color);
+  background-color: var(--dark-color);
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+
+.btn--dark-dark-bg:hover {
+  -webkit-box-shadow: var(--dark-color) 0px 0px 0px 0px inset, var(--dark-color) -5px 5px 0px -1px, var(--bright-color) -5px 5px;
+  box-shadow: var(--dark-color) 0px 0px 0px 0px inset, var(--dark-color) -5px 5px 0px -1px, var(--bright-color) -5px 5px;
+  -webkit-transform: translate(5px, -5px);
+  transform: translate(5px, -5px);
+}
+
+.btn--bright {
+  color: var(--dark-color);
+  border: 1px solid var(--dark-color);
+  background-color: var(--bright-color);
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+
+.btn--bright:hover {
+  -webkit-box-shadow: var(--third-color) 0px 0px 0px 0px inset, var(--dark-color) -5px 5px 0px -1px, var(--bright-color) -5px 5px;
+  box-shadow: var(--third-color) 0px 0px 0px 0px inset, var(--dark-color) -5px 5px 0px -1px, var(--bright-color) -5px 5px;
+  -webkit-transform: translate(5px, -5px);
+  transform: translate(5px, -5px);
+}
+
+.btn--third-color {
+  color: var(--bright-color);
+  border: 1px solid var(--third-color);
+  background-color: var(--third-color);
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+
+.btn--third-color:hover {
+  -webkit-box-shadow: var(--third-color) 0px 0px 0px 0px inset, var(--dark-color) -5px 5px 0px -1px, var(--third-color) -5px 5px;
+  box-shadow: var(--third-color) 0px 0px 0px 0px inset, var(--dark-color) -5px 5px 0px -1px, var(--third-color) -5px 5px;
+  -webkit-transform: translate(5px, -5px);
+  transform: translate(5px, -5px);
+}
+
+/*# sourceMappingURL=dev_portfolio-2_1_src_components_Button_css_bad6b30c._.single.css.map*/

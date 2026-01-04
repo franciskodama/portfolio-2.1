@@ -1,0 +1,130 @@
+/* [project]/dev/portfolio-2.1/src/components/Palette.css [app-client] (css) */
+.color {
+  z-index: 2;
+  position: absolute;
+  top: 50%;
+  right: 5%;
+}
+
+.color__square-first {
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50px;
+  height: 50px;
+  display: none;
+}
+
+.color__icon--open, .color__icon--close {
+  cursor: pointer;
+  background-size: 32px;
+  padding: 1em;
+}
+
+.color__icon--open {
+  background-image: url("/images/ico-brush.png");
+}
+
+.color__icon--close {
+  background-image: url("/images/ico-brush-close.png");
+}
+
+.color__square-wrapper {
+  z-index: -1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+  padding: .2em;
+  -webkit-animation: 1s ease-in-out forwards colors-up;
+  animation: 1s ease-in-out forwards colors-up;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  bottom: 2em;
+  left: 0%;
+}
+
+@-webkit-keyframes colors-up {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(-30%);
+    transform: translateY(-30%);
+  }
+}
+
+@keyframes colors-up {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(-30%);
+    transform: translateY(-30%);
+  }
+}
+
+.color__options {
+  cursor: pointer;
+  border: 1px dashed #0000;
+  padding: .1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.color__square {
+  border: 1px solid var(--bright-color);
+  width: 12px;
+  height: 12px;
+  margin: .1em;
+}
+
+.color--active {
+  border-color: var(--bright-color);
+}
+
+.color--one {
+  background-color: #1c1c1c;
+}
+
+.color--two {
+  background-color: #ed1c24;
+  margin-left: .3em;
+}
+
+.color--three {
+  background-color: #29335c;
+}
+
+.color--four {
+  background-color: #f3a712;
+  margin-left: .3em;
+}
+
+.color--five {
+  background-color: #757575;
+}
+
+.color--six {
+  background-color: #03a9f4;
+  margin-left: .3em;
+}
+
+@media only screen and (min-width: 62em) {
+  .color__square-first {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=dev_portfolio-2_1_src_components_Palette_css_bad6b30c._.single.css.map*/

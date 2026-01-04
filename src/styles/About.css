@@ -379,7 +379,7 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../assets/images/about-empty.svg);
+  background-image: url(/images/about-empty.svg);
   background-repeat: no-repeat;
   background-size: 6em;
   background-position: 1em 1.5em;

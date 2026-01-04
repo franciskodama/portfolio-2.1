@@ -1,0 +1,144 @@
+/* [project]/dev/portfolio-2.1/src/styles/Navbar.css [app-client] (css) */
+.navbar {
+  z-index: 100;
+  background-color: var(--dark-color);
+  width: 100%;
+  position: fixed;
+  overflow: visible;
+}
+
+.navbar .container {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+}
+
+.navbar__logo {
+  cursor: pointer;
+  width: 120px;
+  padding: .8em 0;
+  -webkit-transition: -webkit-transform .3s ease-in-out, transform .3s ease-in-out;
+  transition: -webkit-transform .3s ease-in-out, transform .3s ease-in-out;
+}
+
+.navbar__logo:hover {
+  -webkit-transform: scale(1.03);
+  transform: scale(1.03);
+}
+
+.navbar__toggle {
+  background-color: var(--third-color);
+  justify-content: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+}
+
+.navbar__horizontal {
+  display: none;
+}
+
+.navbar__menu, .navbar__close {
+  cursor: pointer;
+  width: 40px;
+}
+
+.navbar__extended {
+  -webkit-box-align: left;
+  -ms-flex-align: left;
+  align-items: left;
+  background-color: var(--third-color);
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 75%;
+  padding: 2.5em 2em 1em 3em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  top: 4.2em;
+  right: 0;
+}
+
+.navbar__item {
+  font-family: var(--main-font-light);
+  color: var(--bright-color);
+  cursor: pointer;
+  font-family: var(--main-font-thin);
+  margin-bottom: 1em;
+  margin-right: 1em;
+  font-size: 1.3rem;
+  text-decoration: none;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  display: block;
+  position: relative;
+  -webkit-transform: perspective(1px)translateZ(0);
+  transform: perspective(1px)translateZ(0);
+  -webkit-box-shadow: 0 0 1px #f000;
+  box-shadow: 0 0 1px #f000;
+}
+
+.navbar__item:hover:first-letter {
+  color: var(--dark-color);
+}
+
+.navbar__item:hover, .navbar__item:focus, .navbar__item:active {
+  -webkit-transform: translateY(-3px);
+  transform: translateY(-3px);
+}
+
+@media only screen and (min-width: 48em) {
+  .navbar__extended {
+    width: 50%;
+    padding: 5em 5em 3em;
+  }
+
+  .navbar__item {
+    margin-right: 3em;
+  }
+}
+
+@media only screen and (min-width: 62em) {
+  .navbar__toggle, .navbar__extended, .navbar__extended .navbar__item {
+    display: none;
+  }
+
+  .navbar__horizontal {
+    display: -ms-grid;
+    -ms-grid-columns: 8rem 6.6rem 5.5rem 3.3rem 5.8rem 3.6rem 6rem 4.3rem;
+    background-color: var(--dark-color);
+    grid-template-columns: 8rem 6.6rem 5.5rem 3.3rem 5.8rem 3.6rem 6rem 4.3rem;
+    justify-content: flex-end;
+    align-items: center;
+    width: 40em;
+    padding: 0;
+    display: grid;
+    position: relative;
+    top: 0;
+  }
+
+  .navbar__item {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  .navbar__item:hover:first-letter {
+    color: var(--third-color);
+    font-family: var(--main-font-regular);
+  }
+}
+
+/*# sourceMappingURL=dev_portfolio-2_1_src_styles_Navbar_css_bad6b30c._.single.css.map*/

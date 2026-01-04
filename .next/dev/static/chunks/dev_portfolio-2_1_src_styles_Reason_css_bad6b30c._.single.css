@@ -1,0 +1,80 @@
+/* [project]/dev/portfolio-2.1/src/styles/Reason.css [app-client] (css) */
+.reason {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-width: 94em;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.reason__grid {
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .3em;
+  margin-top: 3em;
+  margin-bottom: 10em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.reason__letter-bright, .reason__letter-dark {
+  text-transform: uppercase;
+  text-align: center;
+  width: 1.5em;
+  height: 1.5em;
+  font-family: var(--main-font-light);
+  background-color: var(--dark-color);
+  border: 1px solid #fff3;
+  font-size: 1.6rem;
+}
+
+.reason__letter-dark {
+  color: var(--third-color);
+}
+
+.reason__reveal-bright, .reason__reveal-dark {
+  opacity: 0;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+  position: relative;
+}
+
+.reason__reveal-bright {
+  -webkit-transform: translateX(-1000px);
+  transform: translateX(-1000px);
+}
+
+.reason__reveal-dark {
+  -webkit-transform: translateX(1000px);
+  transform: translateX(1000px);
+}
+
+.reason__reveal-bright.reason__reveal--active, .reason__reveal-dark.reason__reveal--active {
+  opacity: 1;
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+}
+
+@media only screen and (min-width: 48em) {
+  .reason__letter-bright, .reason__letter-dark {
+    width: 1.5em;
+    height: 1.5em;
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (min-width: 75em) {
+  .reason__letter-bright, .reason__letter-dark {
+    width: 1.3em;
+    height: 1.3em;
+    font-size: 3.8rem;
+  }
+}
+
+/*# sourceMappingURL=dev_portfolio-2_1_src_styles_Reason_css_bad6b30c._.single.css.map*/

@@ -1,12 +1,14 @@
+'use client';
+
 import React, { useEffect, useState } from "react";
 import "../components/Avatar.css";
 import { avatarData } from "../data/Data";
-import LightBulb from "../assets/images/about-lightbulb.svg";
-import Puzzle from "../assets/images/about-puzzle.svg";
-import Chat from "../assets/images/about-chat.svg";
-import Student from "../assets/images/about-student.svg";
-import Eye from "../assets/images/about-eye.svg";
-import Smile from "../assets/images/about-smile.svg";
+const LightBulb = "/images/about-lightbulb.svg";
+const Puzzle = "/images/about-puzzle.svg";
+const Chat = "/images/about-chat.svg";
+const Student = "/images/about-student.svg";
+const Eye = "/images/about-eye.svg";
+const Smile = "/images/about-smile.svg";
 
 const Avatar = () => {
   const [isImgShown, setIsImgShown] = useState(0);

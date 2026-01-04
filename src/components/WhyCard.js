@@ -1,9 +1,11 @@
+'use client';
+
 import React, { useRef, useState } from "react";
 import "../components/WhyCard.css";
-import EyeOpen from "../assets/images/why-eye-open.svg";
-import EyeClosed from "../assets/images/why-eye-closed.svg";
-import Check from "../assets/images/why-icon-check.svg";
-import Close from "../assets/images/card-icon-close-white.svg";
+const EyeOpen = "/images/why-eye-open.svg";
+const EyeClosed = "/images/why-eye-closed.svg";
+const Check = "/images/why-icon-check.svg";
+const Close = "/images/card-icon-close-white.svg";
 
 const WhyCard = ({
   titleOne,

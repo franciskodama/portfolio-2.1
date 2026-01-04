@@ -1,0 +1,144 @@
+/* [project]/dev/portfolio-2.1/src/styles/Contact.css [app-client] (css) */
+.contact {
+  border-top: .2px solid #fff3;
+  padding-bottom: 10em;
+  position: relative;
+}
+
+.contact .container {
+  width: 60%;
+  margin-bottom: 2em;
+}
+
+.phrase {
+  width: auto;
+  font-family: var(--main-font-light);
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+  border: .5px solid var(--bright-color);
+  margin: .5em 1em .5em 0;
+  padding: .4em 1.2em;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+  display: inline-block;
+}
+
+.phrase:hover {
+  -webkit-box-shadow: var(--dark-color) -5px 5px 0px -.5px, var(--bright-color) -5px 5px;
+  box-shadow: var(--dark-color) -5px 5px 0px -.5px, var(--bright-color) -5px 5px;
+  -webkit-transform: translate(5px, -5px);
+  transform: translate(5px, -5px);
+}
+
+.phrase--active {
+  color: var(--third-color);
+  background-color: var(--dark-color);
+  border: 1px solid var(--third-color);
+}
+
+.phrase--active:hover {
+  -webkit-box-shadow: var(--dark-color) -5px 5px 0px -1px, var(--third-color) -5px 5px;
+  box-shadow: var(--dark-color) -5px 5px 0px -1px, var(--third-color) -5px 5px;
+  -webkit-transform: translate(5px, -5px);
+  transform: translate(5px, -5px);
+}
+
+.drop {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.drop__title {
+  text-transform: uppercase;
+  font-family: var(--main-font-medium);
+  color: var(--third-color);
+  margin-top: 4em;
+  margin-bottom: .5em;
+}
+
+.drop__space {
+  border: 1px dashed var(--bright-color);
+  color: #ffffff1a;
+  min-height: 7em;
+  padding: .5em 1em;
+}
+
+.form-contact {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.form-contact__title {
+  text-transform: uppercase;
+  font-family: var(--main-font-medium);
+  color: var(--third-color);
+  margin-top: 4em;
+  margin-bottom: .5em;
+}
+
+.form-contact__input-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.form-contact__input {
+  width: 100%;
+  margin-bottom: 2em;
+  padding: .5em;
+}
+
+.form-contact__input--textarea {
+  height: 7em;
+}
+
+.form-contact__input:last-child {
+  margin-left: 2em;
+}
+
+.form-contact__buttons {
+  justify-content: space-between;
+  margin-top: 2em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+@media only screen and (min-width: 20em) {
+  .contact .container {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 48em) {
+  .contact .container {
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width: 62em) {
+  .contact .container {
+    width: 60%;
+  }
+
+  .form-contact__buttons {
+    justify-content: space-between;
+    margin-top: 1em;
+  }
+}
+
+/*# sourceMappingURL=dev_portfolio-2_1_src_styles_Contact_css_bad6b30c._.single.css.map*/
