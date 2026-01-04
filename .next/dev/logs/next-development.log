@@ -1,2 +1,2 @@
-[00:00:00.736] Server  LOG     ✓ Ready in 455ms
-[00:00:03.849] Browser ERROR   unhandledRejection: Error: Request failed with status code 401
+[00:00:00.652] Server  LOG     ✓ Ready in 383ms
+[00:00:24.639] Browser ERROR   unhandledRejection: Error: Request failed with status code 401
