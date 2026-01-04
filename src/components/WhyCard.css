@@ -177,19 +177,19 @@
 }
 
 .why__title--flag {
-  background-image: url("../assets/images/why-icon-flag.svg");
+  background-image: url("/images/why-icon-flag.svg");
 }
 
 .why__title--bolt {
-  background-image: url("../assets/images/why-icon-bolt.svg");
+  background-image: url("/images/why-icon-bolt.svg");
 }
 
 .why__title--brush {
-  background-image: url("../assets/images/why-icon-brush.svg");
+  background-image: url("/images/why-icon-brush.svg");
 }
 
 .why__title--robot {
-  background-image: url("../assets/images/why-icon-robot.svg");
+  background-image: url("/images/why-icon-robot.svg");
 }
 
 .why__description {

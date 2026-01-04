@@ -22,11 +22,11 @@
 }
 
 .color__icon--open {
-  background-image: url(../assets/images/ico-brush.png);
+  background-image: url(/images/ico-brush.png);
 }
 
 .color__icon--close {
-  background-image: url(../assets/images/ico-brush-close.png);
+  background-image: url(/images/ico-brush-close.png);
 }
 
 .color__square-wrapper {

@@ -1,17 +1,17 @@
 @font-face {
   font-family: "axiformalight";
-  src: url("../assets/fonts/kastelov_-_axiforma_light-webfont.woff2")
+  src: url("/fonts/kastelov_-_axiforma_light-webfont.woff2")
       format("woff2"),
-    url("../assets/fonts/kastelov_-_axiforma_light-webfont.woff") format("woff");
+    url("/fonts/kastelov_-_axiforma_light-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "axiformamedium";
-  src: url("../assets/fonts/kastelov_-_axiforma_medium-webfont.woff2")
+  src: url("/fonts/kastelov_-_axiforma_medium-webfont.woff2")
       format("woff2"),
-    url("../assets/fonts/kastelov_-_axiforma_medium-webfont.woff")
+    url("/fonts/kastelov_-_axiforma_medium-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -19,9 +19,9 @@
 
 @font-face {
   font-family: "axiformaregular";
-  src: url("../assets/fonts/kastelov_-_axiforma_regular-webfont.woff2")
+  src: url("/fonts/kastelov_-_axiforma_regular-webfont.woff2")
       format("woff2"),
-    url("../assets/fonts/kastelov_-_axiforma_regular-webfont.woff")
+    url("/fonts/kastelov_-_axiforma_regular-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -29,9 +29,9 @@
 
 @font-face {
   font-family: "axiformasemibold";
-  src: url("../assets/fonts/kastelov_-_axiforma_semibold-webfont.woff2")
+  src: url("/fonts/kastelov_-_axiforma_semibold-webfont.woff2")
       format("woff2"),
-    url("../assets/fonts/kastelov_-_axiforma_semibold-webfont.woff")
+    url("/fonts/kastelov_-_axiforma_semibold-webfont.woff")
       format("woff");
   font-weight: normal;
   font-style: normal;
@@ -39,18 +39,18 @@
 
 @font-face {
   font-family: "axiformathin";
-  src: url("../assets/fonts/kastelov_-_axiforma_thin-webfont.woff2")
+  src: url("/fonts/kastelov_-_axiforma_thin-webfont.woff2")
       format("woff2"),
-    url("../assets/fonts/kastelov_-_axiforma_thin-webfont.woff") format("woff");
+    url("/fonts/kastelov_-_axiforma_thin-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "axiformaheavy";
-  src: url("../assets/fonts/kastelov_-_axiforma_heavy-webfont.woff2")
+  src: url("/fonts/kastelov_-_axiforma_heavy-webfont.woff2")
       format("woff2"),
-    url("../assets/fonts/kastelov_-_axiforma_heavy-webfont.woff") format("woff");
+    url("/fonts/kastelov_-_axiforma_heavy-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }

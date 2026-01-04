@@ -122,49 +122,49 @@ export const avatarData = [
     title: 'creative and innovation',
     description:
       'Due to my continuous curiosity and extensive advertising experience, I am always ready to contribute to the development of innovative solutions that can make a real impact.',
-    imgUrl: require('../assets/images/avatar-creative.jpg'),
+    imgUrl: '/images/avatar-creative.jpg',
   },
   {
     key: 1,
     title: 'creative and innovation',
     description:
       'Due to my continuous curiosity and extensive advertising experience, I am always ready to contribute to the development of innovative solutions that can make a real impact.',
-    imgUrl: require('../assets/images/avatar-creative.jpg'),
+    imgUrl: '/images/avatar-creative.jpg',
   },
   {
     key: 2,
     title: 'problem-solving',
     description:
       'I have the ability to handle and calmly identify solutions to difficult or unexpected situations both in programming challenges and in the workplace.',
-    imgUrl: require('../assets/images/avatar-problem.jpg'),
+    imgUrl: '/images/avatar-problem.jpg',
   },
   {
     key: 3,
     title: 'effective communication',
     description:
       'Listening actively to the stakeholders is crucial, which has been my job for all my life. Good communication is one of my most valuable qualities.',
-    imgUrl: require('../assets/images/avatar-communication.jpg'),
+    imgUrl: '/images/avatar-communication.jpg',
   },
   {
     key: 4,
     title: 'lifelong learner',
     description:
       'I find joy in continuous growth and development to keep up with changes in this new world. My aim is to develop skills and master new technologies in order to add value to the projects I work on.',
-    imgUrl: require('../assets/images/avatar-learner2.jpg'),
+    imgUrl: '/images/avatar-learner2.jpg',
   },
   {
     key: 5,
     title: 'goal-oriented',
     description:
       'Motivated by my vision, goals, and meaningful aspirations, I really believe in hard work, good choices, and persistence. I am rarely distracted from my goals.',
-    imgUrl: require('../assets/images/avatar-goal.jpg'),
+    imgUrl: '/images/avatar-goal.jpg',
   },
   {
     key: 6,
     title: 'positive attitude',
     description:
       'I am truly interested in deep relationships. Collaboration, flexibility, and empathy are some qualities I have developed over a strong and consistent career.',
-    imgUrl: require('../assets/images/avatar-friendly.jpg'),
+    imgUrl: '/images/avatar-friendly.jpg',
   },
 ];
 
@@ -176,14 +176,14 @@ export const projects = [
   {
     id: 1,
     frontShow: true,
-    icon: require('../assets/images/card-icon-thisportfolio.png'),
+    icon: '/images/card-icon-thisportfolio.png',
     title0: 'this.',
     titleA: 'Portfolio',
     year: '2022',
     tech: 'react, js, html, sass',
     category: 'website',
     url: 'https://www.fkodama.com',
-    image: require('../assets/images/project-portfolio.jpg'),
+    image: '/images/project-portfolio.jpg',
     frontText: '100% React-based, this is my most important project built.',
     backText_titleOne: 'why',
     backText_textOne: `As a product strategist, I began by thinking about how to create a portfolio that would appeal to employers seeking talents with my skills.`,
@@ -199,13 +199,13 @@ export const projects = [
   {
     id: 2,
     frontShow: true,
-    icon: require('../assets/images/card-icon-seletos.png'),
+    icon: '/images/card-icon-seletos.png',
     titleA: 'Seletos',
     year: '2021',
     tech: 'html css',
     category: 'website',
     url: 'https://fkodama.com/_dev/seletos',
-    image: require('../assets/images/project-seletos.jpg'),
+    image: '/images/project-seletos.jpg',
     frontText:
       'This was the first website that I fully developed with HTML, CSS, and JS.',
     backText_titleOne: 'why',
@@ -225,13 +225,13 @@ export const projects = [
   {
     id: 3,
     frontShow: true,
-    icon: require('../assets/images/card-icon-pacman.png'),
+    icon: '/images/card-icon-pacman.png',
     titleA: 'Pac Man',
     year: '2021',
     tech: 'html css js',
     category: 'video game',
     url: 'https://fkodama.com/_dev/pacman/',
-    image: require('../assets/images/project-pacman.jpg'),
+    image: '/images/project-pacman.jpg',
     frontText: "Here's a tutorial project I took to a whole new level.",
     backText_titleOne: 'why',
     backText_textOne:
@@ -252,13 +252,13 @@ export const projects = [
   {
     id: 4,
     frontShow: true,
-    icon: require('../assets/images/card-icon-mundial.png'),
+    icon: '/images/card-icon-mundial.png',
     titleA: 'Mundial',
     year: '2021',
     tech: 'html css',
     category: 'website',
     url: 'https://www.mundialcomunicacao.com.br/',
-    image: require('../assets/images/project-mundial.jpg'),
+    image: '/images/project-mundial.jpg',
     frontText: 'My first client website, my first big challenge.',
     backText_titleOne: 'why',
     backText_textOne:
@@ -277,13 +277,13 @@ export const projects = [
   {
     id: 5,
     frontShow: true,
-    icon: require('../assets/images/card-icon-resume.png'),
+    icon: '/images/card-icon-resume.png',
     titleA: 'Resume',
     year: '2021',
     tech: 'html css js',
     category: 'resume online',
     url: 'https://www.fkodama.com/_dev/resume-online/',
-    image: require('../assets/images/project-resume.jpg'),
+    image: '/images/project-resume.jpg',
     frontText: 'Building a website based on the design reference.',
     backText_titleOne: 'why',
     backText_textOne:
@@ -302,13 +302,13 @@ export const projects = [
   {
     id: 6,
     frontShow: true,
-    icon: require('../assets/images/card-icon-spaceinvaders.png'),
+    icon: '/images/card-icon-spaceinvaders.png',
     titleA: 'Space Invaders',
     year: '2021',
     tech: 'html css js',
     category: 'video game',
     url: 'https://fkodama.com/_dev/space-invaders/',
-    image: require('../assets/images/project-space.jpg'),
+    image: '/images/project-space.jpg',
     frontText: 'Time to have fun with Vanilla Javascript.',
     backText_titleOne: 'why',
     backText_textOne:
