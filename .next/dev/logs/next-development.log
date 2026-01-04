@@ -1856,3 +1856,51 @@ It can also happen if the client has a browser extension installed which messes 
 > Invariant failed: isDropDisabled must be a boolean
 
 %c👷‍ This is a development only message. It will be removed in production builds. color: #00C584; font-size: 1.2em; font-weight: bold; line-height: 1.5 color: #723874;
+[04:31:21.744] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <SegmentViewNode type="layout" pagePath="/dev/portf...">
+                    <SegmentTrieNode>
+                    <link>
+                    <script>
+                    <RootLayout>
+                      <html
+                        lang="en"
+-                       data-jetski-tab-id="1848703760"
+                      >
+                  ...
+
+[04:31:21.744] Browser ERROR   %creact-beautiful-dnd
+
+%cA setup problem was encountered.
+
+> Invariant failed: isDropDisabled must be a boolean
+
+%c👷‍ This is a development only message. It will be removed in production builds. color: #00C584; font-size: 1.2em; font-weight: bold; line-height: 1.5 color: #723874;
+[04:31:21.744] Browser ERROR   %creact-beautiful-dnd
+
+%cA setup problem was encountered.
+
+> Invariant failed: isDropDisabled must be a boolean
+
+%c👷‍ This is a development only message. It will be removed in production builds. color: #00C584; font-size: 1.2em; font-weight: bold; line-height: 1.5 color: #723874;
+[04:31:23.940] Browser ERROR   unhandledRejection: Error: Request failed with status code 401

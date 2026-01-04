@@ -30,46 +30,24 @@
 
 .color__square-wrapper {
   z-index: -1;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
   width: auto;
   padding: .2em;
-  -webkit-animation: 1s ease-in-out forwards colors-up;
   animation: 1s ease-in-out forwards colors-up;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   position: absolute;
   bottom: 2em;
   left: 0%;
 }
 
-@-webkit-keyframes colors-up {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(-30%);
-    transform: translateY(-30%);
-  }
-}
-
 @keyframes colors-up {
   0% {
     opacity: 0;
-    -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 
   100% {
     opacity: 1;
-    -webkit-transform: translateY(-30%);
     transform: translateY(-30%);
   }
 }
@@ -78,8 +56,6 @@
   cursor: pointer;
   border: 1px dashed #0000;
   padding: .1em;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 

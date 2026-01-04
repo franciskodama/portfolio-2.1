@@ -1,30 +1,19 @@
 /* [project]/dev/portfolio-2.1/src/styles/CleanCode.css [app-client] (css) */
 .code {
   background: var(--dark-color);
-  background: -webkit-gradient(linear, left top, left bottom, from(var(--dark-color)), to(#292929));
   background: linear-gradient(180deg, var(--dark-color) 0%, #292929 100%);
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   position: relative;
 }
 
 .code .container {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
   align-items: center;
   width: 100%;
   height: 70em;
   margin-top: 8em;
   margin-bottom: 5em;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   position: relative;
 }
@@ -38,26 +27,10 @@
   background-image: url("/images/xray.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
   height: 135em;
-  -webkit-animation: .3s both code-appearance;
   animation: .3s both code-appearance;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-}
-
-@-webkit-keyframes code-appearance {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
 }
 
 @keyframes code-appearance {
@@ -80,17 +53,11 @@
   position: absolute;
   top: 15%;
   left: 50%;
-  -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
 }
 
 .quote {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -123,19 +90,16 @@
   text-align: center;
   height: 30em;
   margin-right: 10em;
-  -webkit-animation: 2s both code-appearance;
   animation: 2s both code-appearance;
 }
 
 .words__bright {
   color: var(--bright-color);
-  -webkit-transform: skew(60deg, -30deg)scaleY(.66667);
   transform: skew(60deg, -30deg)scaleY(.66667);
 }
 
 .words__dark {
   color: var(--third-color);
-  -webkit-transform: skew(0deg, -30deg)scaleY(1.33333);
   transform: skew(0deg, -30deg)scaleY(1.33333);
 }
 

@@ -2,14 +2,9 @@
 .footer {
   background-color: #282828;
   border-top: 1px solid #fff3;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -18,9 +13,6 @@
 }
 
 .footer__grid {
-  display: -ms-grid;
-  -ms-grid-columns: auto;
-  -ms-grid-rows: (auto) [12];
   grid-template-rows: repeat(12, auto);
   grid-template-columns: auto;
   width: 70%;
@@ -52,12 +44,7 @@
 }
 
 .footer__contact, .footer__design {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
   flex-direction: column;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -120,7 +107,6 @@
 
 .footer__icons, .footer__menu-item, .footer__send {
   cursor: pointer;
-  -webkit-transition: all .2s;
   transition: all .2s;
 }
 
@@ -135,7 +121,6 @@
 .footer__menu-item:hover, .footer__send:hover, .footer__resume-link:hover {
   font-family: var(--main-font-semibold);
   color: var(--third-color);
-  -webkit-transform: translateX(-3px);
   transform: translateX(-3px);
 }
 
@@ -149,12 +134,9 @@
 }
 
 .footer__icons {
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   align-items: flex-start;
   height: 70%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -181,8 +163,6 @@
 .footer__resume {
   align-items: flex-end;
   margin-top: 3em;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -206,9 +186,6 @@
 
 @media only screen and (min-width: 62em) {
   .footer__grid {
-    -ms-grid-columns: 2fr 1fr 1fr 1fr;
-    -ms-grid-rows: (auto) [4];
-    -webkit-column-gap: 4em;
     grid-template-rows: repeat(4, auto);
     grid-template-columns: 2fr 1fr 1fr 1fr;
     column-gap: 4em;
@@ -249,12 +226,7 @@
   }
 
   .footer__menu {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
     flex-direction: column;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
   }
 

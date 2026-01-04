@@ -11,13 +11,10 @@
 }
 
 .projects__wrapper {
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
