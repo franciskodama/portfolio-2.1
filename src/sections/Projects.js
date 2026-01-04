@@ -8,12 +8,22 @@ import { projects, whyData } from "../data/Data";
 import { Parallax } from "react-scroll-parallax";
 
 const Projects = () => {
+  const [mounted, setMounted] = React.useState(false);
+
+  React.useEffect(() => {
+    setMounted(true);
+  }, []);
+
   return (
     <section className="section projects" id="projects">
       <div className="container">
-        <Parallax opacity={[0, 3]} scale={[1.5, 0.9]}>
+        {mounted ? (
+          <Parallax opacity={[0, 3]} scale={[1.5, 0.9]}>
+            <h2 className="section-title projects__title">selected projects</h2>
+          </Parallax>
+        ) : (
           <h2 className="section-title projects__title">selected projects</h2>
-        </Parallax>
+        )}
 
         <div className="projects__wrapper">
           {projects.map((project) => (

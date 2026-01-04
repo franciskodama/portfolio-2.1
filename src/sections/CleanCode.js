@@ -9,7 +9,12 @@ const ZoomIn = '/images/code-check.svg';
 const ZoomOut = '/images/code-check-return.svg';
 
 const CleanCode = () => {
+  const [mounted, setMounted] = useState(false);
   const [showBackground, setShowBackground] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const handleClick = () => {
     setShowBackground(!showBackground);
@@ -25,23 +30,57 @@ const CleanCode = () => {
       }
       style={{ padding: showBackground && '35em' }}
     >
-      <Parallax opacity={[0, 2]}>
-        <h1
-          className='section-title'
-          style={{ display: showBackground ? 'none' : 'block' }}
-        >
-          My code
-        </h1>
-        <p
-          className='code__subtitle'
-          style={{ display: showBackground ? 'none' : 'block' }}
-        >
-          It must be read like a story
-        </p>
-      </Parallax>
+      {mounted ? (
+        <Parallax opacity={[0, 2]}>
+          <h1
+            className='section-title'
+            style={{ display: showBackground ? 'none' : 'block' }}
+          >
+            My code
+          </h1>
+          <p
+            className='code__subtitle'
+            style={{ display: showBackground ? 'none' : 'block' }}
+          >
+            It must be read like a story
+          </p>
+        </Parallax>
+      ) : (
+        <>
+          <h1
+            className='section-title'
+            style={{ display: showBackground ? 'none' : 'block' }}
+          >
+            My code
+          </h1>
+          <p
+            className='code__subtitle'
+            style={{ display: showBackground ? 'none' : 'block' }}
+          >
+            It must be read like a story
+          </p>
+        </>
+      )}
 
       <div className='container'>
-        <Parallax opacity={[0, 2]} translateY={['0%', '-10%']}>
+        {mounted ? (
+          <Parallax opacity={[0, 2]} translateY={['0%', '-10%']}>
+            <div
+              className='quote'
+              style={{ display: showBackground ? 'none' : 'flex' }}
+            >
+              <q className='quote__text'>
+                “Clean code always looks like it was written by someone who
+                cares.”
+              </q>
+              <p className='quote__author-name'>
+                <span style={{ color: 'var(--third-color)' }}>― </span>Robert C.
+                Martin
+              </p>
+              <p className='quote__author'>Author of Clean Code</p>
+            </div>
+          </Parallax>
+        ) : (
           <div
             className='quote'
             style={{ display: showBackground ? 'none' : 'flex' }}
@@ -56,7 +95,7 @@ const CleanCode = () => {
             </p>
             <p className='quote__author'>Author of Clean Code</p>
           </div>
-        </Parallax>
+        )}
 
         <div className='code__button' onClick={handleClick}>
           <img
@@ -80,7 +119,31 @@ const CleanCode = () => {
           </p>
         </div>
 
-        <Parallax opacity={[0, 2]}>
+        {mounted ? (
+          <Parallax opacity={[0, 2]}>
+            <ul
+              className='words'
+              style={{ display: showBackground ? 'none' : 'block' }}
+            >
+              <li className='words__dark words--dry'>DRY</li>
+              <li className='words__bright words--meticulousness'>
+                meticulousness
+              </li>
+              <li className='words__dark words--easy-read'>easy to read</li>
+              <li className='words__dark words--easy-change'>easy to change</li>
+              <li className='words__bright words--naming'>naming</li>
+              <li className='words__bright words--conventions'>conventions</li>
+              <li className='words__dark words--repeat'>don't repeat</li>
+              <li className='words__dark words--self'>your self</li>
+              <li className='words__bright words--keep'>keep it</li>
+              <li className='words__bright words--simple'>simple</li>
+              <li className='words__dark words--concise'>clear and concise</li>
+              <li className='words__bright words--consistency'>consistency</li>
+              <li className='words__dark words--uncomplicate'>uncomplicate</li>
+              <li className='words__bright words--bright-bem'>BEM</li>
+            </ul>
+          </Parallax>
+        ) : (
           <ul
             className='words'
             style={{ display: showBackground ? 'none' : 'block' }}
@@ -102,7 +165,7 @@ const CleanCode = () => {
             <li className='words__dark words--uncomplicate'>uncomplicate</li>
             <li className='words__bright words--bem'>BEM</li>
           </ul>
-        </Parallax>
+        )}
 
         {!showBackground ? (
           <WhyCard

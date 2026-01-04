@@ -1,7 +1,6 @@
 {
   "app": {
-    "[project]/dev/portfolio-2.1/src/app/_not-found/page": [],
-    "[project]/dev/portfolio-2.1/src/app/page": []
+    "[project]/dev/portfolio-2.1/src/app/_not-found/page": []
   },
   "appUsingSizeAdjust": false,
   "pages": {},

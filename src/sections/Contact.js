@@ -1,7 +1,7 @@
 'use client';
 
 
-import React, { useState, useContext, useRef } from 'react';
+import React, { useState, useContext, useRef, useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 
 import '../styles/Contact.css';
@@ -61,6 +61,11 @@ const onDragEnd = (result, columns, setColumns) => {
 };
 
 const Contact = () => {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
   const { location } = useContext(AboutContext);
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -128,66 +133,68 @@ const Contact = () => {
           hello generator
         </h1>
         <p>{`Let me help you drop me a line! ;)`}</p>
-        <DragDropContext
-          onDragEnd={(result) => onDragEnd(result, columns, setColumns)}
-        >
-          {Object.entries(columns).map(([columnId, column], index) => {
-            return (
-              <div className='drop' key={columnId}>
-                <h2 className='drop__title'>{column.name}</h2>
-                <div>
-                  <Droppable droppableId={columnId} key={columnId}>
-                    {(provided, snapshot) => {
-                      return (
-                        <div
-                          {...provided.droppableProps}
-                          ref={provided.innerRef}
-                          className='drop__space'
-                          style={{
-                            background: snapshot.isDraggingOver
-                              ? 'rgba(255, 255, 255, 0.1)'
-                              : 'var(--dark-color)',
-                          }}
-                        >
-                          {column.items.map((item, index) => {
-                            return (
-                              <Draggable
-                                key={item.id}
-                                draggableId={item.id}
-                                index={index}
-                              >
-                                {(provided, snapshot) => {
-                                  return (
-                                    <div
-                                      className='phrase'
-                                      ref={provided.innerRef}
-                                      {...provided.draggableProps}
-                                      {...provided.dragHandleProps}
-                                      style={{
-                                        backgroundColor: snapshot.isDragging
-                                          ? 'var(--third-color)'
-                                          : 'var(--dark-color)',
-                                        color: 'var(--bright-color)',
-                                        ...provided.draggableProps.style,
-                                      }}
-                                    >
-                                      {item.content}
-                                    </div>
-                                  );
-                                }}
-                              </Draggable>
-                            );
-                          })}
-                          {provided.placeholder}
-                        </div>
-                      );
-                    }}
-                  </Droppable>
+        {mounted && (
+          <DragDropContext
+            onDragEnd={(result) => onDragEnd(result, columns, setColumns)}
+          >
+            {Object.entries(columns).map(([columnId, column], index) => {
+              return (
+                <div className='drop' key={columnId}>
+                  <h2 className='drop__title'>{column.name}</h2>
+                  <div>
+                    <Droppable droppableId={columnId} key={columnId}>
+                      {(provided, snapshot) => {
+                        return (
+                          <div
+                            {...provided.droppableProps}
+                            ref={provided.innerRef}
+                            className='drop__space'
+                            style={{
+                              background: snapshot.isDraggingOver
+                                ? 'rgba(255, 255, 255, 0.1)'
+                                : 'var(--dark-color)',
+                            }}
+                          >
+                            {column.items.map((item, index) => {
+                              return (
+                                <Draggable
+                                  key={item.id}
+                                  draggableId={item.id}
+                                  index={index}
+                                >
+                                  {(provided, snapshot) => {
+                                    return (
+                                      <div
+                                        className='phrase'
+                                        ref={provided.innerRef}
+                                        {...provided.draggableProps}
+                                        {...provided.dragHandleProps}
+                                        style={{
+                                          backgroundColor: snapshot.isDragging
+                                            ? 'var(--third-color)'
+                                            : 'var(--dark-color)',
+                                          color: 'var(--bright-color)',
+                                          ...provided.draggableProps.style,
+                                        }}
+                                      >
+                                        {item.content}
+                                      </div>
+                                    );
+                                  }}
+                                </Draggable>
+                              );
+                            })}
+                            {provided.placeholder}
+                          </div>
+                        );
+                      }}
+                    </Droppable>
+                  </div>
                 </div>
-              </div>
-            );
-          })}
-        </DragDropContext>
+              );
+            })}
+          </DragDropContext>
+        )}
 
         <form ref={formContact} className='form-contact' onSubmit={handleSubmit}>
           <p className='form-contact__title'>Additional comments:</p>

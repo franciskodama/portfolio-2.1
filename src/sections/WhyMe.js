@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import '../styles/WhyMe.css';
 import { Parallax } from 'react-scroll-parallax';
 const WhyPic01 = '/images/why-pic-01.jpg';
@@ -21,6 +21,11 @@ const WhyPic15 = '/images/why-pic-15.jpg';
 const WhyPic16 = '/images/why-pic-16.jpg';
 
 const WhyMe = () => {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
   const [heartShown, setHeartShown] = useState(false);
 
   const [oneShown, setOneShown] = useState(false);
@@ -39,6 +44,11 @@ const WhyMe = () => {
   const [fourteenShown, setFourteenShown] = useState(false);
   const [fifteenShown, setFifteenShown] = useState(false);
   const [sixteenShown, setSixteenShown] = useState(false);
+
+  const renderCvItem = (content, parallaxProps) => {
+    if (!mounted) return content;
+    return <Parallax {...parallaxProps}>{content}</Parallax>;
+  };
 
   return (
     <section className='section whyme' id='whyme'>
@@ -89,11 +99,7 @@ const WhyMe = () => {
         </div>
 
         <section className='cv'>
-          <Parallax
-            opacity={[0, 2]}
-            translateY={['100%', '-50%']}
-            scale={[2, 0.8]}
-          >
+          {renderCvItem(
             <div className='cv__item'>
               <div className='cv__first-container'>
                 <div className='cv__first-wrapper'>
@@ -133,13 +139,11 @@ const WhyMe = () => {
                   in order to get the best out of us.
                 </h5>
               </div>
-            </div>
-          </Parallax>
-          <Parallax
-            opacity={[0, 2]}
-            translateY={['100%', '-50%']}
-            scale={[2, 0.8]}
-          >
+            </div>,
+            { opacity: [0, 2], translateY: ['100%', '-50%'], scale: [2, 0.8] }
+          )}
+
+          {renderCvItem(
             <div className='cv__item'>
               <div className='cv__a-wrapper'>
                 <h3 className='cv__title'>General Director</h3>
@@ -158,16 +162,13 @@ const WhyMe = () => {
                 <h6 className='cv__benefit-title'>Why is it good for you?</h6>
                 <h5 className='cv__benefit'>
                   I will bring valuable experience and leadership skills to your organization.
-                  {/* Product: I will consider what are the most valuable features for each persona, respecting the product's life cycle. */}
                 </h5>
               </div>
-            </div>
-          </Parallax>
-          <Parallax
-            opacity={[0, 2]}
-            translateY={['100%', '-50%']}
-            scale={[2, 0.8]}
-          >
+            </div>,
+            { opacity: [0, 2], translateY: ['100%', '-50%'], scale: [2, 0.8] }
+          )}
+
+          {renderCvItem(
             <div className='cv__item'>
               <div className='cv__a-wrapper'>
                 <h3 className='cv__title'>
@@ -192,13 +193,11 @@ const WhyMe = () => {
                   optimizing results on multiple fronts.
                 </h5>
               </div>
-            </div>
-          </Parallax>
-          <Parallax
-            opacity={[0, 2]}
-            translateY={['100%', '-50%']}
-            scale={[2, 0.8]}
-          >
+            </div>,
+            { opacity: [0, 2], translateY: ['100%', '-50%'], scale: [2, 0.8] }
+          )}
+
+          {renderCvItem(
             <div className='cv__item'>
               <div className='cv__a-wrapper'>
                 <h3 className='cv__title'>Client Services Director</h3>
@@ -224,13 +223,11 @@ const WhyMe = () => {
                   their real needs.
                 </h5>
               </div>
-            </div>
-          </Parallax>
-          <Parallax
-            opacity={[0, 2]}
-            translateY={['100%', '-50%']}
-            scale={[2, 0.8]}
-          >
+            </div>,
+            { opacity: [0, 2], translateY: ['100%', '-50%'], scale: [2, 0.8] }
+          )}
+
+          {renderCvItem(
             <div className='cv__item'>
               <div className='cv__a-wrapper'>
                 <h3 className='cv__title'>
@@ -256,8 +253,9 @@ const WhyMe = () => {
                   the team can develop the best digital product.
                 </h5>
               </div>
-            </div>
-          </Parallax>
+            </div>,
+            { opacity: [0, 2], translateY: ['100%', '-50%'], scale: [2, 0.8] }
+          )}
         </section>
 
         <section className='pics'>
@@ -289,7 +287,6 @@ const WhyMe = () => {
               alt='gallery element'
               className='pics__pic'
               onMouseEnter={() => setThirteenShown(true)}
-              s
               onMouseLeave={() => setThirteenShown(false)}
             />
             {thirteenShown ? (

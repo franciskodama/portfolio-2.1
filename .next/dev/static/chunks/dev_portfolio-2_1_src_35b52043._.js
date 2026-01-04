@@ -2577,11 +2577,15 @@ __turbopack_context__.s([
     "default",
     ()=>__TURBOPACK__default__export__
 ]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_object_spread$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/@swc/helpers/esm/_object_spread.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_object_spread_props$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/@swc/helpers/esm/_object_spread_props.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/@swc/helpers/esm/_sliced_to_array.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_type_of$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/@swc/helpers/esm/_type_of.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/react-scroll-parallax/dist/index.mjs [app-client] (ecmascript) <locals>");
+;
+;
 ;
 ;
 var _this = ("TURBOPACK compile-time value", void 0);
@@ -2609,23 +2613,39 @@ var WhyPic15 = '/images/why-pic-15.jpg';
 var WhyPic16 = '/images/why-pic-16.jpg';
 var WhyMe = function() {
     _s();
-    var _useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), heartShown = _useState[0], setHeartShown = _useState[1];
-    var _useState1 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), oneShown = _useState1[0], setOneShown = _useState1[1];
-    var _useState2 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), twoShown = _useState2[0], setTwoShown = _useState2[1];
-    var _useState3 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), threeShown = _useState3[0], setThreeShown = _useState3[1];
-    var _useState4 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fourShown = _useState4[0], setFourShown = _useState4[1];
-    var _useState5 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fiveShown = _useState5[0], setFiveShown = _useState5[1];
-    var _useState6 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), sixShown = _useState6[0], setSixShown = _useState6[1];
-    var _useState7 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), sevenShown = _useState7[0], setSevenShown = _useState7[1];
-    var _useState8 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), eightShown = _useState8[0], setEightShown = _useState8[1];
-    var _useState9 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), nineShown = _useState9[0], setNineShown = _useState9[1];
-    var _useState10 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), tenShown = _useState10[0], setTenShown = _useState10[1];
-    var _useState11 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), elevenShown = _useState11[0], setElevenShown = _useState11[1];
-    var _useState12 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), twelveShown = _useState12[0], setTwelveShown = _useState12[1];
-    var _useState13 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), thirteenShown = _useState13[0], setThirteenShown = _useState13[1];
-    var _useState14 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fourteenShown = _useState14[0], setFourteenShown = _useState14[1];
-    var _useState15 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fifteenShown = _useState15[0], setFifteenShown = _useState15[1];
-    var _useState16 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), sixteenShown = _useState16[0], setSixteenShown = _useState16[1];
+    var _useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), mounted = _useState[0], setMounted = _useState[1];
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "WhyMe.useEffect": function() {
+            setMounted(true);
+        }
+    }["WhyMe.useEffect"], []);
+    var _useState1 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), heartShown = _useState1[0], setHeartShown = _useState1[1];
+    var _useState2 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), oneShown = _useState2[0], setOneShown = _useState2[1];
+    var _useState3 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), twoShown = _useState3[0], setTwoShown = _useState3[1];
+    var _useState4 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), threeShown = _useState4[0], setThreeShown = _useState4[1];
+    var _useState5 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fourShown = _useState5[0], setFourShown = _useState5[1];
+    var _useState6 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fiveShown = _useState6[0], setFiveShown = _useState6[1];
+    var _useState7 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), sixShown = _useState7[0], setSixShown = _useState7[1];
+    var _useState8 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), sevenShown = _useState8[0], setSevenShown = _useState8[1];
+    var _useState9 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), eightShown = _useState9[0], setEightShown = _useState9[1];
+    var _useState10 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), nineShown = _useState10[0], setNineShown = _useState10[1];
+    var _useState11 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), tenShown = _useState11[0], setTenShown = _useState11[1];
+    var _useState12 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), elevenShown = _useState12[0], setElevenShown = _useState12[1];
+    var _useState13 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), twelveShown = _useState13[0], setTwelveShown = _useState13[1];
+    var _useState14 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), thirteenShown = _useState14[0], setThirteenShown = _useState14[1];
+    var _useState15 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fourteenShown = _useState15[0], setFourteenShown = _useState15[1];
+    var _useState16 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), fifteenShown = _useState16[0], setFifteenShown = _useState16[1];
+    var _useState17 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), sixteenShown = _useState17[0], setSixteenShown = _useState17[1];
+    var renderCvItem = function(content, parallaxProps) {
+        if (!mounted) return content;
+        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_object_spread_props$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_object_spread$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])({}, parallaxProps), {
+            children: content
+        }), void 0, false, {
+            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+            lineNumber: 50,
+            columnNumber: 12
+        }, _this);
+    };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "section whyme",
         id: "whyme",
@@ -2637,7 +2657,7 @@ var WhyMe = function() {
                     children: "Why Me?"
                 }, void 0, false, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 46,
+                    lineNumber: 56,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2646,14 +2666,14 @@ var WhyMe = function() {
                         "The opportunity to have a fully",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 48,
+                            lineNumber: 58,
                             columnNumber: 42
                         }, _this),
                         "qualified professional in your team."
                     ]
                 }, void 0, true, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 47,
+                    lineNumber: 57,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2667,7 +2687,7 @@ var WhyMe = function() {
                             children: "Whole package"
                         }, void 0, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 56,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2675,13 +2695,13 @@ var WhyMe = function() {
                             children: "Maturity, organization, strategic view, and much more from 24 years of experience."
                         }, void 0, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 57,
+                            lineNumber: 67,
                             columnNumber: 11
                         }, _this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 52,
+                    lineNumber: 62,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2695,7 +2715,7 @@ var WhyMe = function() {
                             children: "PASSION"
                         }, void 0, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 67,
+                            lineNumber: 77,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
@@ -2704,24 +2724,24 @@ var WhyMe = function() {
                                 "My career in marketing ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 69,
+                                    lineNumber: 79,
                                     columnNumber: 36
                                 }, _this),
                                 " spanned more than two decades, and I achieved important positions ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 70,
+                                    lineNumber: 80,
                                     columnNumber: 44
                                 }, _this),
                                 "I had planned. Now is the time for me to pursue a career I've been passionate about since I was a teenager. A career that I've been working on and having a lot of fun with!",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 74,
+                                    lineNumber: 84,
                                     columnNumber: 13
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 75,
+                                    lineNumber: 85,
                                     columnNumber: 13
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("q", {
@@ -2730,7 +2750,7 @@ var WhyMe = function() {
                                     children: '"When you have fun, you can do amazing things."'
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 76,
+                                    lineNumber: 86,
                                     columnNumber: 13
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2738,19 +2758,19 @@ var WhyMe = function() {
                                     children: "- Joe Namath"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 79,
+                                    lineNumber: 89,
                                     columnNumber: 13
                                 }, _this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 68,
+                            lineNumber: 78,
                             columnNumber: 11
                         }, _this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 63,
+                    lineNumber: 73,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2764,7 +2784,7 @@ var WhyMe = function() {
                             children: "Why changing carrers?"
                         }, void 0, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 87,
+                            lineNumber: 97,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2772,19 +2792,142 @@ var WhyMe = function() {
                             children: "Click here"
                         }, void 0, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 88,
+                            lineNumber: 98,
                             columnNumber: 11
                         }, _this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 83,
+                    lineNumber: 93,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                     className: "cv",
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                        renderCvItem(/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "cv__item",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__first-container",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "cv__first-wrapper",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "cv__first-title",
+                                                    children: "Changing carreers"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 106,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__first-title-curly",
+                                                    style: {
+                                                        marginLeft: '0.3em',
+                                                        marginRight: '0.3em'
+                                                    },
+                                                    children: String.fromCharCode(123)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 107,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "cv__first-title--bright",
+                                                    children: "software developer"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 113,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__first-title-curly",
+                                                    children: String.fromCharCode(125)
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 116,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "cv__first-square"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 119,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 105,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__cia-date cv__hightlight",
+                                            children: [
+                                                "2020 ~ ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__today",
+                                                    children: "TODAY"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 122,
+                                                    columnNumber: 26
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 121,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__tech cv__tech--mobile",
+                                            style: {
+                                                width: "95%"
+                                            },
+                                            children: "React | Next.js | JavaScript | Typescript | CSS3 | SASS | HTML5 | Styled Components | Tailwind | APIs | Prisma | GraphQL | Retool | Airtable | Firebase | Responsive Design | Git | Yarn | NPM | Figma | Adobe Photoshop | Jira | Agile | ...And a big  smile"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 124,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 104,
+                                    columnNumber: 15
+                                }, _this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__b-wrapper cv__b-wrapper--mobile",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            className: "cv__benefit-title",
+                                            children: "How does all of this benefit you?"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 134,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                            className: "cv__benefit",
+                                            children: "I will work with teams, contributing and inspiring colleagues in order to get the best out of us."
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 137,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 133,
+                                    columnNumber: 15
+                                }, _this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                            lineNumber: 103,
+                            columnNumber: 13
+                        }, _this), {
                             opacity: [
                                 0,
                                 2
@@ -2796,137 +2939,114 @@ var WhyMe = function() {
                             scale: [
                                 2,
                                 0.8
-                            ],
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "cv__item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__first-container",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "cv__first-wrapper",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                        className: "cv__first-title",
-                                                        children: "Changing carreers"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 100,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__first-title-curly",
-                                                        style: {
-                                                            marginLeft: '0.3em',
-                                                            marginRight: '0.3em'
-                                                        },
-                                                        children: String.fromCharCode(123)
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 101,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "cv__first-title--bright",
-                                                        children: "software developer"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 107,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__first-title-curly",
-                                                        children: String.fromCharCode(125)
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 110,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "cv__first-square"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 113,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 99,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__cia-date cv__hightlight",
-                                                children: [
-                                                    "2020 ~ ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__today",
-                                                        children: "TODAY"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 116,
-                                                        columnNumber: 26
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 115,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__tech cv__tech--mobile",
-                                                style: {
-                                                    width: "95%"
-                                                },
-                                                children: "React | Next.js | JavaScript | Typescript | CSS3 | SASS | HTML5 | Styled Components | Tailwind | APIs | Prisma | GraphQL | Retool | Airtable | Firebase | Responsive Design | Git | Yarn | NPM | Figma | Adobe Photoshop | Jira | Agile | ...And a big  smile"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 118,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 98,
-                                        columnNumber: 15
-                                    }, _this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__b-wrapper cv__b-wrapper--mobile",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                                className: "cv__benefit-title",
-                                                children: "How does all of this benefit you?"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 128,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                className: "cv__benefit",
-                                                children: "I will work with teams, contributing and inspiring colleagues in order to get the best out of us."
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 131,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 127,
-                                        columnNumber: 15
-                                    }, _this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                lineNumber: 97,
-                                columnNumber: 13
-                            }, _this)
-                        }, void 0, false, {
+                            ]
+                        }),
+                        renderCvItem(/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "cv__item",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__a-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "cv__title",
+                                            children: "General Director"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 149,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "cv__square"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 150,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__cia-date",
+                                            children: [
+                                                "Circus | ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__hightlight",
+                                                    children: "2016 ~ 2020"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 152,
+                                                    columnNumber: 28
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 151,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                            className: "cv__tech",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Leadership"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 155,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Product Strategy"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 156,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Agile methodology"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 157,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 154,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 148,
+                                    columnNumber: 15
+                                }, _this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__b-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            className: "cv__benefit-title",
+                                            children: "Why is it good for you?"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 162,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                            className: "cv__benefit",
+                                            children: "I will bring valuable experience and leadership skills to your organization."
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 163,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 161,
+                                    columnNumber: 15
+                                }, _this)
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 92,
-                            columnNumber: 11
-                        }, _this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                            lineNumber: 147,
+                            columnNumber: 13
+                        }, _this), {
                             opacity: [
                                 0,
                                 2
@@ -2938,119 +3058,122 @@ var WhyMe = function() {
                             scale: [
                                 2,
                                 0.8
-                            ],
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "cv__item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__a-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "cv__title",
-                                                children: "General Director"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 145,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "cv__square"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 146,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__cia-date",
-                                                children: [
-                                                    "Circus | ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__hightlight",
-                                                        children: "2016 ~ 2020"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 148,
-                                                        columnNumber: 28
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 147,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                className: "cv__tech",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Leadership"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 151,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Product Strategy"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 152,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Agile methodology"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 153,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 150,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 144,
-                                        columnNumber: 15
-                                    }, _this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__b-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                                className: "cv__benefit-title",
-                                                children: "Why is it good for you?"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 158,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                className: "cv__benefit",
-                                                children: "I will bring valuable experience and leadership skills to your organization."
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 159,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 157,
-                                        columnNumber: 15
-                                    }, _this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                lineNumber: 143,
-                                columnNumber: 13
-                            }, _this)
-                        }, void 0, false, {
+                            ]
+                        }),
+                        renderCvItem(/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "cv__item",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__a-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "cv__title",
+                                            children: "Planning and new business director"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 174,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "cv__square"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 177,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__cia-date",
+                                            children: [
+                                                "Circus | ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__hightlight",
+                                                    children: "2011 ~ 2015"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 179,
+                                                    columnNumber: 28
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 178,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                            className: "cv__tech",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Presentations"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 182,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Leadership"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 183,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Sales"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 184,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 181,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 173,
+                                    columnNumber: 15
+                                }, _this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__b-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            className: "cv__benefit-title",
+                                            children: "Why is it good for you?"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 189,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                            className: "cv__benefit",
+                                            children: [
+                                                "Through listening, ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 191,
+                                                    columnNumber: 38
+                                                }, _this),
+                                                "strategy, and effective communication, I will present my ideas, negotiating and optimizing results on multiple fronts."
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 190,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 188,
+                                    columnNumber: 15
+                                }, _this)
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 138,
-                            columnNumber: 11
-                        }, _this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                            lineNumber: 172,
+                            columnNumber: 13
+                        }, _this), {
                             opacity: [
                                 0,
                                 2
@@ -3062,127 +3185,133 @@ var WhyMe = function() {
                             scale: [
                                 2,
                                 0.8
-                            ],
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "cv__item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__a-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "cv__title",
-                                                children: "Planning and new business director"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 173,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "cv__square"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 176,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__cia-date",
-                                                children: [
-                                                    "Circus | ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__hightlight",
-                                                        children: "2011 ~ 2015"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 178,
-                                                        columnNumber: 28
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 177,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                className: "cv__tech",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Presentations"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 181,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Leadership"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 182,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Sales"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 183,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 180,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 172,
-                                        columnNumber: 15
-                                    }, _this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__b-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                                className: "cv__benefit-title",
-                                                children: "Why is it good for you?"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 188,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                className: "cv__benefit",
-                                                children: [
-                                                    "Through listening, ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 190,
-                                                        columnNumber: 38
-                                                    }, _this),
-                                                    "strategy, and effective communication, I will present my ideas, negotiating and optimizing results on multiple fronts."
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 189,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 187,
-                                        columnNumber: 15
-                                    }, _this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                lineNumber: 171,
-                                columnNumber: 13
-                            }, _this)
-                        }, void 0, false, {
+                            ]
+                        }),
+                        renderCvItem(/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "cv__item",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__a-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "cv__title",
+                                            children: "Client Services Director"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 203,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "cv__square"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 204,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__cia-date",
+                                            children: [
+                                                "WE | ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__hightlight",
+                                                    children: "2008 ~ 2010"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 206,
+                                                    columnNumber: 24
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 205,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__cia-date",
+                                            children: [
+                                                "Rapp Collins |",
+                                                ' ',
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__hightlight",
+                                                    children: "2007 ~ 2008"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 210,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 208,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                            className: "cv__tech",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Leadership"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 213,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Business & Financial"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 214,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Problem Solving"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 215,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 212,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 202,
+                                    columnNumber: 15
+                                }, _this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__b-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            className: "cv__benefit-title",
+                                            children: "Why is it good for you?"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 220,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                            className: "cv__benefit",
+                                            children: "I will listen closely to customers to understand and discover their real needs."
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 221,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 219,
+                                    columnNumber: 15
+                                }, _this)
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 166,
-                            columnNumber: 11
-                        }, _this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                            lineNumber: 201,
+                            columnNumber: 13
+                        }, _this), {
                             opacity: [
                                 0,
                                 2
@@ -3194,138 +3323,123 @@ var WhyMe = function() {
                             scale: [
                                 2,
                                 0.8
-                            ],
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "cv__item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__a-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "cv__title",
-                                                children: "Client Services Director"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 204,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "cv__square"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 205,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__cia-date",
-                                                children: [
-                                                    "WE | ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__hightlight",
-                                                        children: "2008 ~ 2010"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 207,
-                                                        columnNumber: 24
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 206,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__cia-date",
-                                                children: [
-                                                    "Rapp Collins |",
-                                                    ' ',
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__hightlight",
-                                                        children: "2007 ~ 2008"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 211,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 209,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                className: "cv__tech",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Leadership"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 214,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Business & Financial"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 215,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Problem Solving"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 216,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 213,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 203,
-                                        columnNumber: 15
-                                    }, _this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__b-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                                className: "cv__benefit-title",
-                                                children: "Why is it good for you?"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 221,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                className: "cv__benefit",
-                                                children: "I will listen closely to customers to understand and discover their real needs."
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 222,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 220,
-                                        columnNumber: 15
-                                    }, _this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                lineNumber: 202,
-                                columnNumber: 13
-                            }, _this)
-                        }, void 0, false, {
+                            ]
+                        }),
+                        renderCvItem(/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "cv__item",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__a-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "cv__title",
+                                            children: [
+                                                "Advertising ",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 234,
+                                                    columnNumber: 31
+                                                }, _this),
+                                                "and digital marketing manager"
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 233,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "cv__square"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 236,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "cv__cia-date",
+                                            children: [
+                                                "Peugeot-Citroën Automobile |",
+                                                ' ',
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                    className: "cv__hightlight",
+                                                    children: "2000 ~ 2007"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 239,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 237,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                            className: "cv__tech",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Critical Thinking"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 242,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Strategy & Criativity"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 243,
+                                                    columnNumber: 19
+                                                }, _this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    children: "Keen eye for design"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                                    lineNumber: 244,
+                                                    columnNumber: 19
+                                                }, _this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 241,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 232,
+                                    columnNumber: 15
+                                }, _this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "cv__b-wrapper",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                                            className: "cv__benefit-title",
+                                            children: "Why is it good for you?"
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 249,
+                                            columnNumber: 17
+                                        }, _this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
+                                            className: "cv__benefit",
+                                            children: "I will use my experience in campaign evaluation, critical thinking, and a keen eye for design to provide my opinion so the team can develop the best digital product."
+                                        }, void 0, false, {
+                                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                            lineNumber: 250,
+                                            columnNumber: 17
+                                        }, _this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
+                                    lineNumber: 248,
+                                    columnNumber: 15
+                                }, _this)
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 197,
-                            columnNumber: 11
-                        }, _this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                            lineNumber: 231,
+                            columnNumber: 13
+                        }, _this), {
                             opacity: [
                                 0,
                                 2
@@ -3337,131 +3451,12 @@ var WhyMe = function() {
                             scale: [
                                 2,
                                 0.8
-                            ],
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "cv__item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__a-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                className: "cv__title",
-                                                children: [
-                                                    "Advertising ",
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 237,
-                                                        columnNumber: 31
-                                                    }, _this),
-                                                    "and digital marketing manager"
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 236,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "cv__square"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 239,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "cv__cia-date",
-                                                children: [
-                                                    "Peugeot-Citroën Automobile |",
-                                                    ' ',
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "cv__hightlight",
-                                                        children: "2000 ~ 2007"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 242,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 240,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                className: "cv__tech",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Critical Thinking"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 245,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Strategy & Criativity"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 246,
-                                                        columnNumber: 19
-                                                    }, _this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                        children: "Keen eye for design"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                        lineNumber: 247,
-                                                        columnNumber: 19
-                                                    }, _this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 244,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 235,
-                                        columnNumber: 15
-                                    }, _this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "cv__b-wrapper",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
-                                                className: "cv__benefit-title",
-                                                children: "Why is it good for you?"
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 252,
-                                                columnNumber: 17
-                                            }, _this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
-                                                className: "cv__benefit",
-                                                children: "I will use my experience in campaign evaluation, critical thinking, and a keen eye for design to provide my opinion so the team can develop the best digital product."
-                                            }, void 0, false, {
-                                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                                lineNumber: 253,
-                                                columnNumber: 17
-                                            }, _this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                        lineNumber: 251,
-                                        columnNumber: 15
-                                    }, _this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                lineNumber: 234,
-                                columnNumber: 13
-                            }, _this)
-                        }, void 0, false, {
-                            fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 229,
-                            columnNumber: 11
-                        }, _this)
+                            ]
+                        })
                     ]
                 }, void 0, true, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 91,
+                    lineNumber: 101,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -3482,7 +3477,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 265,
+                                    lineNumber: 263,
                                     columnNumber: 13
                                 }, _this),
                                 oneShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3490,13 +3485,13 @@ var WhyMe = function() {
                                     children: "WE 2008"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 272,
+                                    lineNumber: 270,
                                     columnNumber: 25
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 264,
+                            lineNumber: 262,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3514,7 +3509,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 276,
+                                    lineNumber: 274,
                                     columnNumber: 13
                                 }, _this),
                                 twoShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3522,13 +3517,13 @@ var WhyMe = function() {
                                     children: "Circus 2017"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 283,
+                                    lineNumber: 281,
                                     columnNumber: 25
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 275,
+                            lineNumber: 273,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3541,13 +3536,12 @@ var WhyMe = function() {
                                     onMouseEnter: function() {
                                         return setThirteenShown(true);
                                     },
-                                    s: true,
                                     onMouseLeave: function() {
                                         return setThirteenShown(false);
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 287,
+                                    lineNumber: 285,
                                     columnNumber: 13
                                 }, _this),
                                 thirteenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3555,13 +3549,13 @@ var WhyMe = function() {
                                     children: "Circus 2019"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 296,
+                                    lineNumber: 293,
                                     columnNumber: 15
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 286,
+                            lineNumber: 284,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3579,7 +3573,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 301,
+                                    lineNumber: 298,
                                     columnNumber: 13
                                 }, _this),
                                 fourShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3587,13 +3581,13 @@ var WhyMe = function() {
                                     children: "Citroën 2007"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 308,
+                                    lineNumber: 305,
                                     columnNumber: 26
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 300,
+                            lineNumber: 297,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3611,7 +3605,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 312,
+                                    lineNumber: 309,
                                     columnNumber: 13
                                 }, _this),
                                 fiveShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3619,13 +3613,13 @@ var WhyMe = function() {
                                     children: "WE 2008"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 319,
+                                    lineNumber: 316,
                                     columnNumber: 26
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 311,
+                            lineNumber: 308,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3643,7 +3637,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 323,
+                                    lineNumber: 320,
                                     columnNumber: 13
                                 }, _this),
                                 sixShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3651,13 +3645,13 @@ var WhyMe = function() {
                                     children: "Circus 2020"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 330,
+                                    lineNumber: 327,
                                     columnNumber: 25
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 322,
+                            lineNumber: 319,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3675,7 +3669,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 334,
+                                    lineNumber: 331,
                                     columnNumber: 13
                                 }, _this),
                                 sevenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3683,13 +3677,13 @@ var WhyMe = function() {
                                     children: "Circus 2016"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 341,
+                                    lineNumber: 338,
                                     columnNumber: 27
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 333,
+                            lineNumber: 330,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3707,7 +3701,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 345,
+                                    lineNumber: 342,
                                     columnNumber: 13
                                 }, _this),
                                 eightShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3715,13 +3709,13 @@ var WhyMe = function() {
                                     children: "Circus 2014"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 352,
+                                    lineNumber: 349,
                                     columnNumber: 27
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 344,
+                            lineNumber: 341,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3739,7 +3733,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 356,
+                                    lineNumber: 353,
                                     columnNumber: 13
                                 }, _this),
                                 nineShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3747,13 +3741,13 @@ var WhyMe = function() {
                                     children: "Citroën 2006"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 363,
+                                    lineNumber: 360,
                                     columnNumber: 26
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 355,
+                            lineNumber: 352,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3771,7 +3765,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 367,
+                                    lineNumber: 364,
                                     columnNumber: 13
                                 }, _this),
                                 tenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3779,13 +3773,13 @@ var WhyMe = function() {
                                     children: "Circus 2020"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 374,
+                                    lineNumber: 371,
                                     columnNumber: 25
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 366,
+                            lineNumber: 363,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3803,7 +3797,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 378,
+                                    lineNumber: 375,
                                     columnNumber: 13
                                 }, _this),
                                 elevenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3811,13 +3805,13 @@ var WhyMe = function() {
                                     children: "Circus 2019"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 385,
+                                    lineNumber: 382,
                                     columnNumber: 28
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 377,
+                            lineNumber: 374,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3835,7 +3829,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 389,
+                                    lineNumber: 386,
                                     columnNumber: 13
                                 }, _this),
                                 twelveShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3843,13 +3837,13 @@ var WhyMe = function() {
                                     children: "Rapp Collins 2008"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 397,
+                                    lineNumber: 394,
                                     columnNumber: 15
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 388,
+                            lineNumber: 385,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3867,7 +3861,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 401,
+                                    lineNumber: 398,
                                     columnNumber: 13
                                 }, _this),
                                 threeShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3875,13 +3869,13 @@ var WhyMe = function() {
                                     children: "Circus 2012"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 408,
+                                    lineNumber: 405,
                                     columnNumber: 27
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 400,
+                            lineNumber: 397,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3899,7 +3893,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 412,
+                                    lineNumber: 409,
                                     columnNumber: 13
                                 }, _this),
                                 fourteenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3907,13 +3901,13 @@ var WhyMe = function() {
                                     children: "Rapp Collins 2007"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 420,
+                                    lineNumber: 417,
                                     columnNumber: 15
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 411,
+                            lineNumber: 408,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3931,7 +3925,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 425,
+                                    lineNumber: 422,
                                     columnNumber: 13
                                 }, _this),
                                 fifteenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3939,13 +3933,13 @@ var WhyMe = function() {
                                     children: "Circus 2013"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 433,
+                                    lineNumber: 430,
                                     columnNumber: 15
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 424,
+                            lineNumber: 421,
                             columnNumber: 11
                         }, _this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3963,7 +3957,7 @@ var WhyMe = function() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 438,
+                                    lineNumber: 435,
                                     columnNumber: 13
                                 }, _this),
                                 sixteenShown ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3971,34 +3965,34 @@ var WhyMe = function() {
                                     children: "Rapp Collins 2007"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                                    lineNumber: 446,
+                                    lineNumber: 443,
                                     columnNumber: 15
                                 }, _this) : null
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                            lineNumber: 437,
+                            lineNumber: 434,
                             columnNumber: 11
                         }, _this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-                    lineNumber: 263,
+                    lineNumber: 261,
                     columnNumber: 9
                 }, _this)
             ]
         }, void 0, true, {
             fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-            lineNumber: 45,
+            lineNumber: 55,
             columnNumber: 7
         }, _this)
     }, void 0, false, {
         fileName: "[project]/dev/portfolio-2.1/src/sections/WhyMe.js",
-        lineNumber: 44,
+        lineNumber: 54,
         columnNumber: 5
     }, _this);
 };
-_s(WhyMe, "W5UHBxkLnBRJ27JYBani6jRD6v4=");
+_s(WhyMe, "mjluej2Wj7GD3tV7KLnzlRJ6SF8=");
 _c = WhyMe;
 const __TURBOPACK__default__export__ = WhyMe;
 var _c;
@@ -4732,6 +4726,7 @@ __turbopack_context__.s([
     "default",
     ()=>__TURBOPACK__default__export__
 ]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/@swc/helpers/esm/_sliced_to_array.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_type_of$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/@swc/helpers/esm/_type_of.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
@@ -4739,10 +4734,12 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$components$2f$WhyCard$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/src/components/WhyCard.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$data$2f$Data$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/src/data/Data.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/dev/portfolio-2.1/node_modules/react-scroll-parallax/dist/index.mjs [app-client] (ecmascript) <locals>");
-'use client';
+;
 ;
 var _this = ("TURBOPACK compile-time value", void 0);
 ;
+var _s = __turbopack_context__.k.signature();
+'use client';
 ;
 ;
 ;
@@ -4750,13 +4747,20 @@ var _this = ("TURBOPACK compile-time value", void 0);
 ;
 ;
 var Projects = function() {
+    _s();
+    var _React_useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useState(false), 2), mounted = _React_useState[0], setMounted = _React_useState[1];
+    __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"].useEffect({
+        "Projects.useEffect": function() {
+            setMounted(true);
+        }
+    }["Projects.useEffect"], []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "section projects",
         id: "projects",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "container",
             children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                mounted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
                     opacity: [
                         0,
                         3
@@ -4770,13 +4774,20 @@ var Projects = function() {
                         children: "selected projects"
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-                        lineNumber: 15,
-                        columnNumber: 11
+                        lineNumber: 22,
+                        columnNumber: 13
                     }, _this)
                 }, void 0, false, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-                    lineNumber: 14,
-                    columnNumber: 9
+                    lineNumber: 21,
+                    columnNumber: 11
+                }, _this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                    className: "section-title projects__title",
+                    children: "selected projects"
+                }, void 0, false, {
+                    fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
+                    lineNumber: 25,
+                    columnNumber: 11
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "projects__wrapper",
@@ -4785,13 +4796,13 @@ var Projects = function() {
                             project: project
                         }, project.id, false, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-                            lineNumber: 20,
+                            lineNumber: 30,
                             columnNumber: 13
                         }, _this);
                     })
                 }, void 0, false, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-                    lineNumber: 18,
+                    lineNumber: 28,
                     columnNumber: 9
                 }, _this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$components$2f$WhyCard$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -4808,21 +4819,22 @@ var Projects = function() {
                     left: __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$data$2f$Data$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["whyData"].selectedProjects.left
                 }, void 0, false, {
                     fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-                    lineNumber: 23,
+                    lineNumber: 33,
                     columnNumber: 9
                 }, _this)
             ]
         }, void 0, true, {
             fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-            lineNumber: 13,
+            lineNumber: 19,
             columnNumber: 7
         }, _this)
     }, void 0, false, {
         fileName: "[project]/dev/portfolio-2.1/src/sections/Projects.js",
-        lineNumber: 12,
+        lineNumber: 18,
         columnNumber: 5
     }, _this);
 };
+_s(Projects, "LrrVfNW3d1raFE0BNzCTILYmIfo=");
 _c = Projects;
 const __TURBOPACK__default__export__ = Projects;
 var _c;
@@ -5459,7 +5471,13 @@ var ZoomIn = '/images/code-check.svg';
 var ZoomOut = '/images/code-check-return.svg';
 var CleanCode = function() {
     _s();
-    var _useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), showBackground = _useState[0], setShowBackground = _useState[1];
+    var _useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), mounted = _useState[0], setMounted = _useState[1];
+    var _useState1 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), showBackground = _useState1[0], setShowBackground = _useState1[1];
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "CleanCode.useEffect": function() {
+            setMounted(true);
+        }
+    }["CleanCode.useEffect"], []);
     var handleClick = function() {
         setShowBackground(!showBackground);
     };
@@ -5475,7 +5493,7 @@ var CleanCode = function() {
             padding: showBackground && '35em'
         },
         children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+            mounted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
                 opacity: [
                     0,
                     2
@@ -5489,8 +5507,8 @@ var CleanCode = function() {
                         children: "My code"
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                        lineNumber: 29,
-                        columnNumber: 9
+                        lineNumber: 35,
+                        columnNumber: 11
                     }, _this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "code__subtitle",
@@ -5500,19 +5518,44 @@ var CleanCode = function() {
                         children: "It must be read like a story"
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                        lineNumber: 35,
-                        columnNumber: 9
+                        lineNumber: 41,
+                        columnNumber: 11
                     }, _this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                lineNumber: 28,
-                columnNumber: 7
-            }, _this),
+                lineNumber: 34,
+                columnNumber: 9
+            }, _this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "section-title",
+                        style: {
+                            display: showBackground ? 'none' : 'block'
+                        },
+                        children: "My code"
+                    }, void 0, false, {
+                        fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                        lineNumber: 50,
+                        columnNumber: 11
+                    }, _this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "code__subtitle",
+                        style: {
+                            display: showBackground ? 'none' : 'block'
+                        },
+                        children: "It must be read like a story"
+                    }, void 0, false, {
+                        fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                        lineNumber: 56,
+                        columnNumber: 11
+                    }, _this)
+                ]
+            }, void 0, true),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "container",
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                    mounted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
                         opacity: [
                             0,
                             2
@@ -5532,8 +5575,8 @@ var CleanCode = function() {
                                     children: "“Clean code always looks like it was written by someone who cares.”"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 49,
-                                    columnNumber: 13
+                                    lineNumber: 72,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "quote__author-name",
@@ -5545,34 +5588,81 @@ var CleanCode = function() {
                                             children: "― "
                                         }, void 0, false, {
                                             fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                            lineNumber: 54,
-                                            columnNumber: 15
+                                            lineNumber: 77,
+                                            columnNumber: 17
                                         }, _this),
                                         "Robert C. Martin"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 53,
-                                    columnNumber: 13
+                                    lineNumber: 76,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "quote__author",
                                     children: "Author of Clean Code"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 57,
-                                    columnNumber: 13
+                                    lineNumber: 80,
+                                    columnNumber: 15
                                 }, _this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                            lineNumber: 45,
-                            columnNumber: 11
+                            lineNumber: 68,
+                            columnNumber: 13
                         }, _this)
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                        lineNumber: 44,
-                        columnNumber: 9
+                        lineNumber: 67,
+                        columnNumber: 11
+                    }, _this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "quote",
+                        style: {
+                            display: showBackground ? 'none' : 'flex'
+                        },
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("q", {
+                                className: "quote__text",
+                                children: "“Clean code always looks like it was written by someone who cares.”"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 88,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "quote__author-name",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        style: {
+                                            color: 'var(--third-color)'
+                                        },
+                                        children: "― "
+                                    }, void 0, false, {
+                                        fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                        lineNumber: 93,
+                                        columnNumber: 15
+                                    }, _this),
+                                    "Robert C. Martin"
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 92,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "quote__author",
+                                children: "Author of Clean Code"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 96,
+                                columnNumber: 13
+                            }, _this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                        lineNumber: 84,
+                        columnNumber: 11
                     }, _this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "code__button",
@@ -5583,7 +5673,7 @@ var CleanCode = function() {
                                 alt: "icon zoom in or out"
                             }, void 0, false, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                lineNumber: 62,
+                                lineNumber: 101,
                                 columnNumber: 11
                             }, _this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -5594,7 +5684,7 @@ var CleanCode = function() {
                                 children: "CHECK MY CODE"
                             }, void 0, false, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                lineNumber: 66,
+                                lineNumber: 105,
                                 columnNumber: 11
                             }, _this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -5604,16 +5694,16 @@ var CleanCode = function() {
                                 children: "RETURN"
                             }, void 0, false, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                lineNumber: 74,
+                                lineNumber: 113,
                                 columnNumber: 11
                             }, _this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                        lineNumber: 61,
+                        lineNumber: 100,
                         columnNumber: 9
                     }, _this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
+                    mounted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$scroll$2d$parallax$2f$dist$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["Parallax"], {
                         opacity: [
                             0,
                             2
@@ -5629,123 +5719,246 @@ var CleanCode = function() {
                                     children: "DRY"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 88,
-                                    columnNumber: 13
+                                    lineNumber: 128,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__bright words--meticulousness",
                                     children: "meticulousness"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 89,
-                                    columnNumber: 13
+                                    lineNumber: 129,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__dark words--easy-read",
                                     children: "easy to read"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 92,
-                                    columnNumber: 13
+                                    lineNumber: 132,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__dark words--easy-change",
                                     children: "easy to change"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 93,
-                                    columnNumber: 13
+                                    lineNumber: 133,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__bright words--naming",
                                     children: "naming"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 94,
-                                    columnNumber: 13
+                                    lineNumber: 134,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__bright words--conventions",
                                     children: "conventions"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 95,
-                                    columnNumber: 13
+                                    lineNumber: 135,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__dark words--repeat",
                                     children: "don't repeat"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 96,
-                                    columnNumber: 13
+                                    lineNumber: 136,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__dark words--self",
                                     children: "your self"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 97,
-                                    columnNumber: 13
+                                    lineNumber: 137,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__bright words--keep",
                                     children: "keep it"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 98,
-                                    columnNumber: 13
+                                    lineNumber: 138,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__bright words--simple",
                                     children: "simple"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 99,
-                                    columnNumber: 13
+                                    lineNumber: 139,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__dark words--concise",
                                     children: "clear and concise"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 100,
-                                    columnNumber: 13
+                                    lineNumber: 140,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__bright words--consistency",
                                     children: "consistency"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 101,
-                                    columnNumber: 13
+                                    lineNumber: 141,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     className: "words__dark words--uncomplicate",
                                     children: "uncomplicate"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 102,
-                                    columnNumber: 13
+                                    lineNumber: 142,
+                                    columnNumber: 15
                                 }, _this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    className: "words__bright words--bem",
+                                    className: "words__bright words--bright-bem",
                                     children: "BEM"
                                 }, void 0, false, {
                                     fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                                    lineNumber: 103,
-                                    columnNumber: 13
+                                    lineNumber: 143,
+                                    columnNumber: 15
                                 }, _this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                            lineNumber: 84,
-                            columnNumber: 11
+                            lineNumber: 124,
+                            columnNumber: 13
                         }, _this)
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                        lineNumber: 83,
-                        columnNumber: 9
+                        lineNumber: 123,
+                        columnNumber: 11
+                    }, _this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                        className: "words",
+                        style: {
+                            display: showBackground ? 'none' : 'block'
+                        },
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--dry",
+                                children: "DRY"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 151,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--meticulousness",
+                                children: "meticulousness"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 152,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--easy-read",
+                                children: "easy to read"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 155,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--easy-change",
+                                children: "easy to change"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 156,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--naming",
+                                children: "naming"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 157,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--conventions",
+                                children: "conventions"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 158,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--repeat",
+                                children: "don't repeat"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 159,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--self",
+                                children: "your self"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 160,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--keep",
+                                children: "keep it"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 161,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--simple",
+                                children: "simple"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 162,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--concise",
+                                children: "clear and concise"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 163,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--consistency",
+                                children: "consistency"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 164,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__dark words--uncomplicate",
+                                children: "uncomplicate"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 165,
+                                columnNumber: 13
+                            }, _this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                className: "words__bright words--bem",
+                                children: "BEM"
+                            }, void 0, false, {
+                                fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                                lineNumber: 166,
+                                columnNumber: 13
+                            }, _this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
+                        lineNumber: 147,
+                        columnNumber: 11
                     }, _this),
                     !showBackground ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$components$2f$WhyCard$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                         titleOne: __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$data$2f$Data$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["whyData"].code.titleOne,
@@ -5761,23 +5974,23 @@ var CleanCode = function() {
                         left: __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$data$2f$Data$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["whyData"].code.left
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                        lineNumber: 108,
+                        lineNumber: 171,
                         columnNumber: 11
                     }, _this) : null
                 ]
             }, void 0, true, {
                 fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-                lineNumber: 43,
+                lineNumber: 65,
                 columnNumber: 7
             }, _this)
         ]
     }, void 0, true, {
         fileName: "[project]/dev/portfolio-2.1/src/sections/CleanCode.js",
-        lineNumber: 21,
+        lineNumber: 26,
         columnNumber: 5
     }, _this);
 };
-_s(CleanCode, "80on+grqMiD8x8gJj6BR1a1PCyc=");
+_s(CleanCode, "8P9zuPkEJU1vyhKcEBfqjWMMQ90=");
 _c = CleanCode;
 const __TURBOPACK__default__export__ = CleanCode;
 var _c;
@@ -5865,11 +6078,17 @@ var onDragEnd = function(result, columns, setColumns) {
 };
 var Contact = function() {
     _s();
+    var _useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false), 2), mounted = _useState[0], setMounted = _useState[1];
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "Contact.useEffect": function() {
+            setMounted(true);
+        }
+    }["Contact.useEffect"], []);
     var location = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContext"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$contexts$2f$AboutContext$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AboutContext"]).location;
-    var _useState = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(''), 2), name = _useState[0], setName = _useState[1];
-    var _useState1 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(''), 2), email = _useState1[0], setEmail = _useState1[1];
-    var _useState2 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(''), 2), message = _useState2[0], setMessage = _useState2[1];
-    var _useState3 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('SUBMIT'), 2), status = _useState3[0], setStatus = _useState3[1];
+    var _useState1 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(''), 2), name = _useState1[0], setName = _useState1[1];
+    var _useState2 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(''), 2), email = _useState2[0], setEmail = _useState2[1];
+    var _useState3 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(''), 2), message = _useState3[0], setMessage = _useState3[1];
+    var _useState4 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])('SUBMIT'), 2), status = _useState4[0], setStatus = _useState4[1];
     var formContact = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])();
     var handleSubmit = function(e) {
         e.preventDefault();
@@ -5911,7 +6130,7 @@ var Contact = function() {
             }
         });
     };
-    var _useState4 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(dropSpace), 2), columns = _useState4[0], setColumns = _useState4[1];
+    var _useState5 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f40$swc$2f$helpers$2f$esm$2f$_sliced_to_array$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["_"])((0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(dropSpace), 2), columns = _useState5[0], setColumns = _useState5[1];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "section contact",
         id: "contact",
@@ -5927,17 +6146,17 @@ var Contact = function() {
                         children: "hello generator"
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                        lineNumber: 127,
+                        lineNumber: 132,
                         columnNumber: 9
                     }, _this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: "Let me help you drop me a line! ;)"
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                        lineNumber: 130,
+                        lineNumber: 135,
                         columnNumber: 9
                     }, _this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$beautiful$2d$dnd$2f$dist$2f$react$2d$beautiful$2d$dnd$2e$esm$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DragDropContext"], {
+                    mounted && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$beautiful$2d$dnd$2f$dist$2f$react$2d$beautiful$2d$dnd$2e$esm$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DragDropContext"], {
                         onDragEnd: function(result) {
                             return onDragEnd(result, columns, setColumns);
                         },
@@ -5951,8 +6170,8 @@ var Contact = function() {
                                         children: column.name
                                     }, void 0, false, {
                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                        lineNumber: 137,
-                                        columnNumber: 17
+                                        lineNumber: 143,
+                                        columnNumber: 19
                                     }, _this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$react$2d$beautiful$2d$dnd$2f$dist$2f$react$2d$beautiful$2d$dnd$2e$esm$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Droppable"], {
@@ -5981,45 +6200,45 @@ var Contact = function() {
                                                                         children: item.content
                                                                     }), void 0, false, {
                                                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                                                        lineNumber: 161,
-                                                                        columnNumber: 37
+                                                                        lineNumber: 167,
+                                                                        columnNumber: 39
                                                                     }, _this);
                                                                 }
                                                             }, item.id, false, {
                                                                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                                                lineNumber: 154,
-                                                                columnNumber: 31
+                                                                lineNumber: 160,
+                                                                columnNumber: 33
                                                             }, _this);
                                                         }),
                                                         provided.placeholder
                                                     ]
                                                 }), void 0, true, {
                                                     fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                                    lineNumber: 142,
-                                                    columnNumber: 25
+                                                    lineNumber: 148,
+                                                    columnNumber: 27
                                                 }, _this);
                                             }
                                         }, columnId, false, {
                                             fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                            lineNumber: 139,
-                                            columnNumber: 19
+                                            lineNumber: 145,
+                                            columnNumber: 21
                                         }, _this)
                                     }, void 0, false, {
                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                        lineNumber: 138,
-                                        columnNumber: 17
+                                        lineNumber: 144,
+                                        columnNumber: 19
                                     }, _this)
                                 ]
                             }, columnId, true, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                lineNumber: 136,
-                                columnNumber: 15
+                                lineNumber: 142,
+                                columnNumber: 17
                             }, _this);
                         })
                     }, void 0, false, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                        lineNumber: 131,
-                        columnNumber: 9
+                        lineNumber: 137,
+                        columnNumber: 11
                     }, _this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
                         ref: formContact,
@@ -6031,7 +6250,7 @@ var Contact = function() {
                                 children: "Additional comments:"
                             }, void 0, false, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                lineNumber: 193,
+                                lineNumber: 200,
                                 columnNumber: 11
                             }, _this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -6045,7 +6264,7 @@ var Contact = function() {
                                 name: "message"
                             }, void 0, false, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                lineNumber: 194,
+                                lineNumber: 201,
                                 columnNumber: 11
                             }, _this),
                             ' ',
@@ -6064,7 +6283,7 @@ var Contact = function() {
                                         required: true
                                     }, void 0, false, {
                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                        lineNumber: 205,
+                                        lineNumber: 212,
                                         columnNumber: 13
                                     }, _this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -6079,13 +6298,13 @@ var Contact = function() {
                                         required: true
                                     }, void 0, false, {
                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                        lineNumber: 216,
+                                        lineNumber: 223,
                                         columnNumber: 13
                                     }, _this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                lineNumber: 204,
+                                lineNumber: 211,
                                 columnNumber: 11
                             }, _this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6098,7 +6317,7 @@ var Contact = function() {
                                         align: "flex-start"
                                     }, void 0, false, {
                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                        lineNumber: 229,
+                                        lineNumber: 236,
                                         columnNumber: 13
                                     }, _this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -6110,25 +6329,25 @@ var Contact = function() {
                                         children: status
                                     }, void 0, false, {
                                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                        lineNumber: 236,
+                                        lineNumber: 243,
                                         columnNumber: 13
                                     }, _this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                                lineNumber: 228,
+                                lineNumber: 235,
                                 columnNumber: 11
                             }, _this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                        lineNumber: 192,
+                        lineNumber: 199,
                         columnNumber: 9
                     }, _this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                lineNumber: 126,
+                lineNumber: 131,
                 columnNumber: 7
             }, _this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$components$2f$WhyCard$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -6145,17 +6364,17 @@ var Contact = function() {
                 left: __TURBOPACK__imported__module__$5b$project$5d2f$dev$2f$portfolio$2d$2$2e$1$2f$src$2f$data$2f$Data$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["whyData"].contact.left
             }, void 0, false, {
                 fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-                lineNumber: 252,
+                lineNumber: 259,
                 columnNumber: 7
             }, _this)
         ]
     }, void 0, true, {
         fileName: "[project]/dev/portfolio-2.1/src/sections/Contact.js",
-        lineNumber: 125,
+        lineNumber: 130,
         columnNumber: 5
     }, _this);
 };
-_s(Contact, "0kkwNak5y3+a6pFIsSX8C1j+lPU=");
+_s(Contact, "OWLbnw70tf8HLEXaflJkiLfzFXI=");
 _c = Contact;
 const __TURBOPACK__default__export__ = Contact;
 var _c;

@@ -1,8 +1,6 @@
 {
   "pages": {},
-  "app": {
-    "[project]/dev/portfolio-2.1/src/app/_not-found/page": []
-  },
+  "app": {},
   "appUsingSizeAdjust": false,
   "pagesUsingSizeAdjust": false
 }
