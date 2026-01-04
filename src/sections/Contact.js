@@ -6,7 +6,7 @@ import emailjs from '@emailjs/browser';
 
 import '../styles/Contact.css';
 import { AboutContext } from '../contexts/AboutContext';
-import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
+import { DragDropContext, Droppable, Draggable } from '@hello-pangea/dnd';
 import { whyData } from '../data/Data';
 import { contactData } from '../data/Data';
 import WhyCard from '../components/WhyCard';
